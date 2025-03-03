@@ -1,0 +1,17 @@
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.csproj.AssemblyReference.cache
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.Form1.resources
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.csproj.GenerateResource.cache
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.AssemblyInfoInputs.cache
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.AssemblyInfo.cs
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.csproj.CoreCompileInputs.cache
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\bin\Debug\net6.0-windows\YNCTFv2WF.exe
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\bin\Debug\net6.0-windows\YNCTFv2WF.deps.json
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\bin\Debug\net6.0-windows\YNCTFv2WF.runtimeconfig.json
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\bin\Debug\net6.0-windows\YNCTFv2WF.dll
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\bin\Debug\net6.0-windows\YNCTFv2WF.pdb
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.dll
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\refint\YNCTFv2WF.dll
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.pdb
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\YNCTFv2WF.genruntimeconfig.cache
+C:\Users\lerha\OneDrive\Masaüstü\YNCTFv2WF\YNCTFv2WF\obj\Debug\net6.0-windows\ref\YNCTFv2WF.dll

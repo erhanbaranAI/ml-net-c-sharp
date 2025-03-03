@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\AHatasi\" />
+    <Folder Include="Images\BHatasi\" />
+    <Folder Include="Images\CHatasi\" />
+    <Folder Include="Images\DHatasi\" />
+  </ItemGroup>
+
+</Project>
